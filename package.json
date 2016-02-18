@@ -1,0 +1,14 @@
+{
+  "name": "impressSlies",
+  "version": "1.0.0",
+  "description": "Sample express app hosting impress library",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Sandeep <sahegde@paypalcorp.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
